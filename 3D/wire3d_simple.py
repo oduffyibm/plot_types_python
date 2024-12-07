@@ -22,4 +22,5 @@ ax.set(xticklabels=[],
        yticklabels=[],
        zticklabels=[])
 
+
 plt.show()
